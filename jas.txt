@@ -4,3 +4,5 @@ first prod
 
 HOTFIX
 release
+feature 1
+feature 2
