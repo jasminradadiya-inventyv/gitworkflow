@@ -1,5 +1,5 @@
-alpha 1
-a 2
+dev first
+dev 2
 i am jas.
 first prod
 2nd prod
